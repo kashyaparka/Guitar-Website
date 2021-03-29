@@ -1,0 +1,221 @@
+/*COLORS    
+Background:
+
+
+*/
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5{
+    font-weight: 700;
+}
+h3 {
+    font-size: 1.2rem;
+    color: #66fcf1;
+}
+h4 {
+    color: #66fcf1;
+}
+.navbar-toggler-icon{
+    color-interpolation-filters: auto!important;
+    color: #66fcf1;
+}
+.navbar-toggler{
+
+    color: white!important;
+    
+     background-color:  #C5C6C7 !important;
+    
+}
+
+a {
+    color: #66fcf1;
+}
+input {
+    background-color: #1f2833 !important;
+    color:#66fcf1 !important;
+}
+img {
+    filter:grayscale(20%) brightness(0.8);
+}
+img.rounded-circle {
+    filter:none;
+    border:2px solid #66fcf1;
+
+
+}
+
+.navbar{
+    background-color: #080C10 !important;
+    color: #66fcf1 !important;
+}
+
+.navbar-brand, .footer-logo {
+    font-weight: 700;
+    font-size: 1.screen;
+}
+.btn-main {
+    background-color: #66fcf1 !important;
+    color:#080C10 !important;
+}
+@media (max-width: 500px) {
+    .author {
+        width: 20%;
+        height: 20%
+}
+}
+/*HERO*/
+.hero{
+    background-color: #1f2833;
+}
+.hero-post {
+    position: relative;
+    color: aquamarine;
+}   
+.PopularSongs{
+    background-color: #080C10;
+    border-collapse: collapse;
+
+}
+.table, th, td {
+    border: 16px #66fcf1 !important;
+}
+.hero-post-badges {
+    font-size: 0.9rem;
+    background-color: ;
+}
+.hero-post-badges>a {
+    display: block;
+    background-color: #080C10;
+    color:#66fcf1;
+
+}
+.hero-post-content {
+    position: absolute !important;
+    bottom: 10px;
+    color: #66fcf1;
+}
+.hero-post-content img {
+    border:2px solid #66fcf1;
+
+}
+/* Main blog*/
+.blog-posts {
+    background-color: #080C10;
+    color: #C5C6C7;
+}
+.blog-post {
+    background-color:#1f2833 !important;
+}
+
+blog-post {
+ 
+}
+.blog-post img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+} 
+.blog-post p {
+    font-size: 0.9rem;
+}
+.blog-post .col-sm-8 {
+    border-left: 3px solid #66fcf1;
+}
+.badges {
+    margin-top: 1rem;
+}
+.badges>a{
+    margin-left: 0.5rem;
+    padding: 0.2rem;
+    background-color: #66fcf1;
+    color: #080C10;
+}
+.social-links {
+    background-color: #66fcf1;
+    color: #080C10;
+    font-size: 1.5rem
+}
+.social-links > a {
+    padding: 2rem;
+}
+.secondary-color {
+    background-color: #1f2833;
+    color: #66fcf1;S
+}
+.aside-heading {
+    border-left: 3px solid #66fcf1;
+}
+
+/* request page*/
+.request {
+    background-color: #1f2833 !important;
+}
+.card-header {
+    background-color: #080C10 !important;
+}
+#reserve {
+    background-color: #080C10;
+    color: #66fcf1;
+}
+.btn button {
+    background-color: #080C10;
+    color: #080C10 !important;
+}
+
+/* about us */
+.about {
+    background-color: #1f2833 !important;
+    color: #66fcf1;
+}
+.description {
+    color: #C5C6C7;
+}
+.about .container {
+    background-color: #080C10;
+
+}
+.footer {
+        background-color: #1f2833;
+        color: #C5C6C7;
+}
+/*Contribute */
+.contribute {
+    background-color: #1f2833;
+}
+.contribute .main {
+    color: #080C10;
+} 
+.text {
+    color: #080C10;
+}   
+.title{
+    color: #66fcf1;
+}
+#feedback {
+    background-color: #080C10 !important;
+    color:#66fcf1 !important;
+    
+}
+.donate {
+    background-color: #1f2833 !important;
+    color:#66fcf1 !important;
+}
+.sub-text {
+    color: #C5C6C7 !important;
+    font-size: 15px;
+}
+
+
+
+/* blogs */
+.songname {
+    color: #66fcf1 !important;
+}
+.blog-content {
+    color:#C5C6C7
+}
